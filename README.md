@@ -66,6 +66,7 @@
 </div>
 
 ###
+###
 
 <h3 align="center">🌸 About Me 🌸</h3>
 
@@ -76,9 +77,3 @@ I am a passionate and self-taught software developer from Argentina, with a deep
 My interest is not limited to coding; I am also drawn to graphical interface design, where I can combine my creativity with my technical skills to produce intuitive and engaging user experiences.
 
 Additionally, I have an affinity for well-organized data structures. I am constantly looking to improve my programming logic and efficiency, with the goal of producing code that not only works, but is also clean, efficient, and easy to maintain.
-
-###
-
-<img src="https://raw.githubusercontent.com/Shentxt/Shentxt/output/snake.svg" alt="Snake animation" />
-
-###
