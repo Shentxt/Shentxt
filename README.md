@@ -28,15 +28,16 @@
 
 ###
 
-<h3 align="center">🌸 About Me 🌸</h3>
+<h3 align="center">🌸 Stats 🌸</h3>
+
+<img align="right" height="350" src="https://i.pinimg.com/564x/5a/89/68/5a8968f81ff3b1738c2a6389cdfb3935.jpg"  />
 
 ###
 
-I am a passionate and self-taught software developer from Argentina, with a deep fascination for the vast world of programming. My journey in the field of computing has been both academic and self-taught, during which I have gained proficiency in a variety of languages and technologies, including Bash, scripting, and Linux.
-
-My interest is not limited to coding; I am also drawn to graphical interface design, where I can combine my creativity with my technical skills to produce intuitive and engaging user experiences.
-
-Additionally, I have an affinity for well-organized data structures. I am constantly looking to improve my programming logic and efficiency, with the goal of producing code that not only works, but is also clean, efficient, and easy to maintain.
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shentxt&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shentxt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ###
 
@@ -66,19 +67,14 @@ Additionally, I have an affinity for well-organized data structures. I am consta
 
 ###
 
-<h3 align="center">🌸 Stats 🌸</h3>
-
-<img align="right" height="350" src="https://i.pinimg.com/564x/5a/89/68/5a8968f81ff3b1738c2a6389cdfb3935.jpg"  />
+<h3 align="center">🌸 About Me 🌸</h3>
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shentxt&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shentxt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+I am a passionate and self-taught software developer from Argentina, with a deep fascination for the vast world of programming. My journey in the field of computing has been both academic and self-taught, during which I have gained proficiency in a variety of languages and technologies, including Bash, scripting, and Linux.
 
-###
+My interest is not limited to coding; I am also drawn to graphical interface design, where I can combine my creativity with my technical skills to produce intuitive and engaging user experiences.
 
-<img src="https://raw.githubusercontent.com/Shentxt/Shentxt/output/snake.svg" alt="Snake animation" />
+Additionally, I have an affinity for well-organized data structures. I am constantly looking to improve my programming logic and efficiency, with the goal of producing code that not only works, but is also clean, efficient, and easy to maintain.
 
 ###
