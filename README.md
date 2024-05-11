@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/Shentxt/NordicBreeze/main/assets/bocchi.webp"  />
+  <img height="450" src="https://raw.githubusercontent.com/Shentxt/NordicBreeze/main/assets/bocchi.webp"  />
 </div>
 
 ###
@@ -68,7 +68,7 @@ Additionally, I have an affinity for well-organized data structures. I am consta
 
 <h3 align="center">🌸 Stats 🌸</h3>
 
-<img align="right" height="250" src="https://i.pinimg.com/564x/5a/89/68/5a8968f81ff3b1738c2a6389cdfb3935.jpg"  />
+<img align="right" height="450" src="https://i.pinimg.com/564x/5a/89/68/5a8968f81ff3b1738c2a6389cdfb3935.jpg"  />
 
 ###
 
