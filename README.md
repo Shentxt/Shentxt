@@ -78,3 +78,7 @@ My interest is not limited to coding; I am also drawn to graphical interface des
 Additionally, I have an affinity for well-organized data structures. I am constantly looking to improve my programming logic and efficiency, with the goal of producing code that not only works, but is also clean, efficient, and easy to maintain.
 
 ###
+
+<img src="https://raw.githubusercontent.com/Shentxt/Shentxt/output/snake.svg" alt="Snake animation" />
+
+###
