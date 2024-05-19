@@ -37,6 +37,16 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Shentxt.Shentxt&"  />
 </div>
 
+<h1 align="center">🌸 About Me 🌸</h1>
+
+###
+
+I am a passionate and self-taught software developer from Argentina, with a deep fascination for the vast world of programming. My journey in the field of computing has been both academic and self-taught, during which I have gained proficiency in a variety of languages and technologies, including Bash, scripting, and Linux.
+
+My interest is not limited to coding; I am also drawn to graphical interface design, where I can combine my creativity with my technical skills to produce intuitive and engaging user experiences.
+
+Additionally, I have an affinity for well-organized data structures. I am constantly looking to improve my programming logic and efficiency, with the goal of producing code that not only works, but is also clean, efficient, and easy to maintain.
+
 ###
 
 <h1 align="center">🌸 Stats 🌸</h1>
@@ -102,12 +112,6 @@
 
 ###
 
-<h1 align="center">🌸 About Me 🌸</h1>
+<img src="https://raw.githubusercontent.com/Shentxt/Shentxt/output/snake.svg" alt="Snake animation" />
 
 ###
-
-I am a passionate and self-taught software developer from Argentina, with a deep fascination for the vast world of programming. My journey in the field of computing has been both academic and self-taught, during which I have gained proficiency in a variety of languages and technologies, including Bash, scripting, and Linux.
-
-My interest is not limited to coding; I am also drawn to graphical interface design, where I can combine my creativity with my technical skills to produce intuitive and engaging user experiences.
-
-Additionally, I have an affinity for well-organized data structures. I am constantly looking to improve my programming logic and efficiency, with the goal of producing code that not only works, but is also clean, efficient, and easy to maintain.
