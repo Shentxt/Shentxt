@@ -31,6 +31,8 @@
   </a>
 </div>
 
+## 🏆 GitHub Trophies![](https://github-profile-trophy.vercel.app/?username=Shentxt&theme=nord&no-frame=true&no-bg=true&margin-w=4)
+
 ###
 
 <h1 align="center">🌸 Language and tools 🌸</h1>
