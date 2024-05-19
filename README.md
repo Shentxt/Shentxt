@@ -31,13 +31,17 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Shentxt.Shentxt&"  />
+</div>
+
 ###
 
-<h1 align="center">🌸 Language and tools 🌸</h1>
+<h1 align="center">🌸 Trophies 🌸</h1>
 
 ###
 
-[](https://github-profile-trophy.vercel.app/?username=Shentxt&theme=nord&no-frame=true&no-bg=true&margin-w=4)
+## [](https://github-profile-trophy.vercel.app/?username=Shentxt&theme=nord&no-frame=true&no-bg=true&margin-w=4)
 
 ###
 
@@ -85,10 +89,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Shentxt.Shentxt&"  />
-</div>
-
 <h1 align="center">🌸 About Me 🌸</h1>
 
 ###
@@ -120,11 +120,11 @@ Additionally, I have an affinity for well-organized data structures. I am consta
 
 ### 
 
-<h1 align="center">🌸 Repo and Activities 🌸</h1>
+<h1 align="center">🌸 Repo and Contribution activity  🌸</h1>
 
 ###
 
-[](https://github-contributor-stats.vercel.app/api?username=Shentxt&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## [](https://github-contributor-stats.vercel.app/api?username=Shentxt&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ###
 
