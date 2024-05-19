@@ -39,9 +39,7 @@
 
 <h1 align="center">🌸 Trophies 🌸</h1>
 
-###
-
-## [](https://github-profile-trophy.vercel.app/?username=Shentxt&theme=nord&no-frame=true&no-bg=true&margin-w=4)
+## ![](https://github-profile-trophy.vercel.app/?username=Shentxt&theme=nord&no-frame=true&no-bg=true&margin-w=4)
 
 ###
 
