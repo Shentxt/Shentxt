@@ -33,41 +33,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Shentxt.Shentxt&"  />
-</div>
-
-<h1 align="center">🌸 About Me 🌸</h1>
-
-###
-
-I am a passionate and self-taught software developer from Argentina, with a deep fascination for the vast world of programming. My journey in the field of computing has been both academic and self-taught, during which I have gained proficiency in a variety of languages and technologies, including Bash, scripting, and Linux.
-
-My interest is not limited to coding; I am also drawn to graphical interface design, where I can combine my creativity with my technical skills to produce intuitive and engaging user experiences.
-
-Additionally, I have an affinity for well-organized data structures. I am constantly looking to improve my programming logic and efficiency, with the goal of producing code that not only works, but is also clean, efficient, and easy to maintain.
-
-###
-
-<h1 align="center">🌸 Stats 🌸</h1>
-
-<img align="right" height="320" src="https://i.pinimg.com/564x/5a/89/68/5a8968f81ff3b1738c2a6389cdfb3935.jpg"  />
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shentxt&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shentxt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Shentxt&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
 <h1 align="center">🌸 Language and tools 🌸</h1>
 
 ###
@@ -109,6 +74,49 @@ Additionally, I have an affinity for well-organized data structures. I am consta
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Shentxt.Shentxt&"  />
+</div>
+
+<h1 align="center">🌸 About Me 🌸</h1>
+
+###
+
+I am a passionate and self-taught software developer from Argentina, with a deep fascination for the vast world of programming. My journey in the field of computing has been both academic and self-taught, during which I have gained proficiency in a variety of languages and technologies, including Bash, scripting, and Linux.
+
+My interest is not limited to coding; I am also drawn to graphical interface design, where I can combine my creativity with my technical skills to produce intuitive and engaging user experiences.
+
+Additionally, I have an affinity for well-organized data structures. I am constantly looking to improve my programming logic and efficiency, with the goal of producing code that not only works, but is also clean, efficient, and easy to maintain.
+
+###
+
+<h1 align="center">🌸 Stats 🌸</h1>
+
+<img align="right" height="320" src="https://i.pinimg.com/564x/5a/89/68/5a8968f81ff3b1738c2a6389cdfb3935.jpg"  />
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shentxt&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shentxt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Shentxt&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+### 
+
+<h1 align="center">🌸 Repo and Activities 🌸</h1>
+
+###
+
+[](https://github-contributor-stats.vercel.app/api?username=Shentxt&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ###
 
